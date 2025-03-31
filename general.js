@@ -16,7 +16,7 @@ const BASE_URL = 'https://qa-api.storyfeed.io/api/v1/embed'
 //open edit
 function Widget(element) {
   this.url = ''
-  this.baseURL = 'Krishna'
+  this.baseURL = 'Krishna2'
   this.perPage = null
   this.allFeeds = []
   this.widgetId = ''
